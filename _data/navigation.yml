@@ -11,6 +11,12 @@ docs:
         url: /categories/
       - title: "Tag"
         url: /tags/    
+  - title: "대목차2"
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/        
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
